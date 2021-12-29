@@ -1,0 +1,8 @@
+torch>=1.5
+torchvision
+visdom
+numpy
+pillow
+scikit-learn
+ptflops
+thop

@@ -1,0 +1,12 @@
+.vscode/
+*.pt
+*.pth
+checkpoint/
+log/
+results/
+__pycache__/
+*.pyc
+*.csv
+*.sh
+demo.py
+README.md
